@@ -1,8 +1,11 @@
-# React + Vite
+Company- CODTECH IT SOLUTION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NAME - DEWANG SAMBHAJI WALKE
 
-Currently, two official plugins are available:
+INTERN ID - CT1MTDF558
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+DOMAIN - Full Stack Web Development
+
+DURATION - 4 WEEKS
+
+MENTOR - NEELA SANTHOSH
